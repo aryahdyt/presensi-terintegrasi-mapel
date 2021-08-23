@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">Aplikasi Blog Sederhana</p>
+<p align="center">Aplikasi Presensi Siswa terintegrasi Mata pelajaran</p>
 
 <div align="left">
     <ol>
